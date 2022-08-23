@@ -1,5 +1,5 @@
 User.destroy_all
-Task.destry_all
+Task.destroy_all
 
 puts "🌱 Seeding spices..."
 User.create(
